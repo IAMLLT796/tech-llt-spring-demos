@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6bb69e1-87e4-4f54-93e7-04f6a04af7e2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/src/main/java/tech/llt/springframework/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/src/main/java/tech/llt/springframework/aspect/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/src/main/java/tech/llt/springframework/config/BeansConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/src/main/java/tech/llt/springframework/dao/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/src/main/java/tech/llt/springframework/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/src/main/java/tech/llt/springframework/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/src/main/resources/aspects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/src/main/resources/dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/src/main/resources/services.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s001-spring-framework-demo-helloworld-xml/src/test/java/tech/llt/springframework/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s002-spring-framework-demo-aop-xml/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s002-spring-framework-demo-aop-xml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s002-spring-framework-demo-aop-xml/src/main/java/tech/llt/springframework/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s002-spring-framework-demo-aop-xml/src/main/java/tech/llt/springframework/aspect/LogAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s002-spring-framework-demo-aop-xml/src/main/java/tech/llt/springframework/service/AopDemoServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/s002-spring-framework-demo-aop-xml/src/test/java/tech/llt/springframework/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NYi1dASkyrwwJFjpKO1TImk2A0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "H:/spring/tech-pdai-spring-demos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "b79376d6e5bf2e94ec11ad21defb6475",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\tech-llt-spring-demos\s001-spring-framework-demo-helloworld-xml\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tech.llt.springframework.App" />
+      <module name="s001-spring-framework-demo-helloworld-xml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tech.llt.springframework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S004SpringFrameworkDemoAopXmlApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="s004-spring-framework-demo-aop-xml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tech.llt.springframework.S004SpringFrameworkDemoAopXmlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S004SpringFrameworkDemoAopXmlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="s004-spring-framework-demo-aop-xml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tech.llt.springframework.s004springframeworkdemoaopxml.S004SpringFrameworkDemoAopXmlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6bb69e1-87e4-4f54-93e7-04f6a04af7e2" name="Changes" comment="" />
+      <created>1679847203309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679847203309</updated>
+      <workItem from="1679847204820" duration="880000" />
+      <workItem from="1680397493574" duration="18000" />
+      <workItem from="1681199160255" duration="5936000" />
+      <workItem from="1681434736684" duration="48000" />
+      <workItem from="1683341958520" duration="4798000" />
+      <workItem from="1684132834172" duration="9795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
